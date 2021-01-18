@@ -176,7 +176,7 @@ header {
   /* Image displayed on mobile devices instead of video, to reduce data consumption and waiting time.
   It's also the image shown if the video doesn't load for some reason.
   Change this image with the first frame of your video, you can make and use a screenshot of it */
-  background: linear-gradient(rgba(255,255,240, 0.6), rgba(0, 0, 0, 0.6)), url("images/12.png") no-repeat center;
+  background: linear-gradient(rgba(0,0,0, 0.6), rgba(0, 0, 0, 0.6)), url("https://wallpaperaccess.com/full/109967.jpg") no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -374,7 +374,7 @@ header {
 #free-trial-section {
   padding-top: 70px;
   padding-bottom: 90px;
-  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("images/12.png");
+  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("https://wallpaperaccess.com/full/836496.jpg");
   background-size: cover;
   background-attachment: fixed; }
   #free-trial-section h1 {
@@ -528,7 +528,7 @@ a:hover.back-to-top {
     border-radius: 3px; }
 
   .navbar-custom.affix {
-    background-color: #071a24;
+    background-color: #666600;
     padding: 5px 0; }
 
   a.navbar-brand.scrolling {
