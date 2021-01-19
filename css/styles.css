@@ -455,7 +455,7 @@ header {
 #social-media-section {
   padding-top: 19px;
   padding-bottom: 18px;
-  background-color: #ddb24a; }
+  background-color: #ffdd1a; }
   #social-media-section span {
     font-size: 40px;
     color: #fff;
@@ -528,7 +528,7 @@ a:hover.back-to-top {
     border-radius: 3px; }
 
   .navbar-custom.affix {
-    background-color: #666600;
+    background-color: #ccad00;
     padding: 5px 0; }
 
   a.navbar-brand.scrolling {
